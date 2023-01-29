@@ -1,6 +1,6 @@
 # movies-api
-Fullstack app utilizing React, Springboot and a MongoDB database
-A simple movie API service
+
+A simple movie API service with SpringBoot and MongoDB
 
 ## postman example
 
