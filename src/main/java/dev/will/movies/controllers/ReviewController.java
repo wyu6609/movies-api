@@ -1,5 +1,7 @@
-package dev.will.movies;
+package dev.will.movies.controllers;
 
+import dev.will.movies.services.ReviewService;
+import dev.will.movies.models.Review;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

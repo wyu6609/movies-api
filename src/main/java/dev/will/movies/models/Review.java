@@ -1,4 +1,4 @@
-package dev.will.movies;
+package dev.will.movies.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

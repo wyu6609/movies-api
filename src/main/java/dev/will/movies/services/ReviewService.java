@@ -1,5 +1,8 @@
-package dev.will.movies;
+package dev.will.movies.services;
 
+import dev.will.movies.models.Movie;
+import dev.will.movies.models.Review;
+import dev.will.movies.repositories.ReviewRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
