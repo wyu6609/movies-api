@@ -3,7 +3,7 @@
 * A simple movie API service with SpringBoot and MongoDB.
 * Clone repo locally, maven clean and run
 
-# Local Hosting Endpoints 
+## Local Hosting Endpoints 
 *  getAllMoviesv1: /GET http://localhost:8080/api/v1/movies
 *  getSingleMoviev1: /GET http://localhost:8080/api/v1/movies/{imdbId}
 *  createReviewv1: /POST http://localhost:8080/api/v1/reviews
