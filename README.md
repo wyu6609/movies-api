@@ -1,7 +1,7 @@
 # movies-api
 
-A simple movie API service with SpringBoot and MongoDB
-clone repo locally, maven clean and run
+* A simple movie API service with SpringBoot and MongoDB.
+* Clone repo locally, maven clean and run
 
 # Local Hosting Endpoints 
 *  getAllMoviesv1: /GET http://localhost:8080/api/v1/movies
