@@ -3,10 +3,10 @@
 A simple movie API service with SpringBoot and MongoDB
 clone repo locally, maven clean and run
 
-Local Hosting Endpoints 
-/GET getAllMovies, http://localhost:8080/api/v1/movies
-/GET getSingleMovie, http://localhost:8080/api/v1/movies/{imdbId}
-/POST createReview, http://localhost:8080/api/v1/reviews
+# Local Hosting Endpoints 
+*  getAllMoviesv1: /GET http://localhost:8080/api/v1/movies
+*  getSingleMoviev1: /GET http://localhost:8080/api/v1/movies/{imdbId}
+*  createReviewv1: /POST http://localhost:8080/api/v1/reviews
 
 
 ## postman example
