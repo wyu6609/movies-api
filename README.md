@@ -1,5 +1,5 @@
 # movies-api
-* A simple movie API service with SpringBoot and MongoDB 
+* A simple API with SpringBoot and MongoDB 
 * Clone repo locally, maven clean and run
 
 ## Local Hosting Endpoints 
