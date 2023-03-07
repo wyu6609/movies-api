@@ -1,5 +1,5 @@
 # movies-api
-Frontend client: https://github.com/wyu6609/movies-ui
+Frontend UI client here: https://github.com/wyu6609/movies-ui
 * A simple API with SpringBoot and MongoDB 
 * Clone repo locally, maven clean and run
 
